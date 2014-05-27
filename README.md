@@ -1,5 +1,5 @@
-android_uioptimizationexample
-=============================
+Android UI optimization example
+===============================
 
 An exmple project showing some of the ui optimization techniques on android
 
