@@ -9,6 +9,6 @@ An exmple project showing some of the ui optimization techniques on android
 
 | /               | Hierarchy depth  | Views | Measure | Layout  | Draw    | Total   |
 | --------------- | ---------------- | ----- | ------- | ------- | ------- | ------- |
-| ```Basic```     | 9                | 72    | 0.354   | 1.7792  | 3.3624  | 5.4956  |
+| ```Basic```     | 9                | 76    | 0.354   | 1.7792  | 3.3624  | 5.4956  |
 | ```Optimized``` | 8                | 52    | 0.3402  | 1.0984  | 2.7098  | 4.1484  |
 
